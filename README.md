@@ -1,7 +1,7 @@
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=churlevski-filip&show_icons=true&theme=dark&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=churlevski-filip&layout=compact&theme=dark&langs_count=8"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=churlevski-filip&layout=compact&theme=dark"/>
 </div>
 
 ## 🛠️ Tech Stack
