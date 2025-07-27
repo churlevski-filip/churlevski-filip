@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Tech+Enthusiast;Student+in+Spirit;Always+Learning+%26+Adapting&font=Fira%20Code&center=true&width=500&height=50&color=6366f1&vCenter=true&pause=1000&size=24)](https://github.com/churlevski-filip)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Java+Enthusiast;Student+in+Spirit;Always+Learning+%26+Adapting&font=Fira%20Code&center=true&width=500&height=50&color=6366f1&vCenter=true&pause=1000&size=24)](https://github.com/churlevski-filip)
 
 </div>
 
@@ -24,6 +24,10 @@
 **Backend Development**
   
 <img src="https://skillicons.dev/icons?i=java,kotlin,spring" />
+
+**Frontend Development**
+
+<img src="https://skillicons.dev/icons?i=react,vue,javascript,typescript" />
 
 **Databases & Cloud**
 
