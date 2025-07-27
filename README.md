@@ -11,13 +11,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=churlevski-filip&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=churlevski-filip&theme=github_dark"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=churlevski-filip&theme=tokyonight&border_radius=10"/>
 </div>
 
 ---
 
-## 💻 Technical Interests
+## 💻 Skills & Interests
 
 <div align="center">
   
