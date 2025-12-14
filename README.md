@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Java+Enthusiast;Student+in+Spirit;Always+Learning+%26+Adapting&font=Fira%20Code&center=true&width=500&height=50&color=6366f1&vCenter=true&pause=1000&size=24)](https://github.com/churlevski-filip)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Spring+Boot+%26+Java+Expert;Backend+Developer;Building+Scalable+Systems&font=Fira%20Code&center=true&width=500&height=50&color=6366f1&vCenter=true&pause=1000&size=24)](https://github.com/churlevski-filip)
 
 </div>
 
@@ -12,25 +12,29 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=churlevski-filip&theme=github_dark"/>
+  <br/><br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=churlevski-filip&show_icons=true&theme=tokyonight&border_radius=10&hide_border=true&count_private=true"/>
 </div>
 
 ---
 
-## 💻 Skills & Interests
+## 💻 Tech Stack
 
 <div align="center">
   
 **Backend Development**
   
-<img src="https://skillicons.dev/icons?i=java,kotlin,spring" />
+<img src="https://skillicons.dev/icons?i=java,kotlin,spring,gradle,maven" />
+<br/>
+<img src="https://img.shields.io/badge/Play_Framework-92D13D?style=for-the-badge&logo=playframework&logoColor=black" />
 
 **Frontend Development**
 
-<img src="https://skillicons.dev/icons?i=react,vue,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=react,vue,js,ts" />
 
-**Databases & Cloud**
+**Databases & Infrastructure**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,aws,docker,kubernetes" />
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,aws,docker,kubernetes" />
 
 </div>
 
@@ -44,22 +48,10 @@
 
 ---
 
-## 🎯 Learning Journey
-
-<div align="center">
-
-**Continuous Learning** • **Clean Code Practices** • **Agile Methodologies**
-
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border_radius=10)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
----
-
 <div align="center">
   
 ![Profile Views](https://komarev.com/ghpvc/?username=churlevski-filip&color=6366f1&style=for-the-badge&label=Profile+Views)
 
-**Embracing growth, one commit at a time** 🌱
+**Building robust systems, one commit at a time** 🚀
 
 </div>
