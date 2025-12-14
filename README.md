@@ -1,9 +1,8 @@
 # Filip Churlevski
 
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Spring+Boot+%26+Java+Expert;Backend+Developer;Building+Scalable+Systems&font=Fira%20Code&center=true&width=500&height=50&color=6366f1&vCenter=true&pause=1000&size=24)](https://github.com/churlevski-filip)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Java+Enthusiast;Student+in+Spirit;Always+Learning+%26+Adapting&font=Fira%20Code&center=true&width=500&height=50&color=6366f1&vCenter=true&pause=1000&size=24)](https://github.com/churlevski-filip)
 </div>
 
 ---
@@ -52,6 +51,6 @@
   
 ![Profile Views](https://komarev.com/ghpvc/?username=churlevski-filip&color=6366f1&style=for-the-badge&label=Profile+Views)
 
-**Building robust systems, one commit at a time** 🚀
+**Embracing growth, one commit at a time** 🌱
 
 </div>
