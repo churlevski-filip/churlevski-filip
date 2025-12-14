@@ -12,7 +12,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=churlevski-filip&theme=github_dark"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=churlevski-filip&theme=tokyonight&border_radius=10"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=churlevski-filip&theme=tokyonight&border_radius=10"/>
 </div>
 
 ---
